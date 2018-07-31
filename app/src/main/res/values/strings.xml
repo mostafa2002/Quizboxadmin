@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz box admin</string>
+
+    <string-array name="subjects">
+        <item>Algebra</item>
+        <item>Calculus</item>
+        <item>Statics</item>
+        <item>Dynamics</item>
+        <item>Trigonometry</item>
+        <item>Solid</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+    </string-array>
+
+</resources>
