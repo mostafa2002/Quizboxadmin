@@ -27,7 +27,7 @@ public class start extends AppCompatActivity {
         adapter = new ViewPagerAdapter(getSupportFragmentManager());
 
         adapter.AddFragment(new AddQuiz(),"add Quiz");
-        adapter.AddFragment(new NewPost(),"New Post");
+        adapter.AddFragment(new NewPost(),"Statistics");
 
         viewPager.setAdapter(adapter);
 
